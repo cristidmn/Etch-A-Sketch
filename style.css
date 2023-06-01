@@ -3,3 +3,10 @@
   width: 600px;
   height: 600px;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
